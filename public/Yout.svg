@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="40" viewBox="0 0 40 40">
+  <g id="Group_8" data-name="Group 8" transform="translate(-288 -7661.09)">
+    <circle id="BG" cx="20" cy="20" r="20" transform="translate(288 7661.09)" fill="#fff" opacity="0.102"/>
+    <g id="Group_5" data-name="Group 5">
+      <path id="Op_component_1" data-name="Op component 1" d="M315.813,7675.25a2.485,2.485,0,0,1,1.769,1.737,26.946,26.946,0,0,1,0,9.456,2.483,2.483,0,0,1-1.769,1.737c-1.559.411-7.813.411-7.813.411s-6.254,0-7.814-.411a2.483,2.483,0,0,1-1.768-1.737,26.94,26.94,0,0,1,0-9.456,2.485,2.485,0,0,1,1.768-1.737c1.56-.41,7.814-.41,7.814-.41S314.254,7674.84,315.813,7675.25Z" fill="#fff"/>
+      <path id="Op_component_2" data-name="Op component 2" d="M306.125,7679.025V7685l5-2.99Z" fill="#303036"/>
+    </g>
+  </g>
+</svg>

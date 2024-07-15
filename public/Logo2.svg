@@ -1,0 +1,8 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="208" height="45.091" viewBox="0 0 208 45.091">
+    <g data-name="Group 3">
+        <path data-name="Rectangle 106" d="M134.545 7495.545A14.545 14.545 0 0 0 120 7481v30.545a14.546 14.546 0 0 0 14.546 14.546z" style="fill:#7b61ff" transform="translate(-120 -7481)"/>
+        <path data-name="Rectangle 108" d="M140.363 7498.455a7.272 7.272 0 0 1 7.273-7.273v17.455a7.272 7.272 0 0 1-7.273 7.272z" style="fill:#7b61ff" transform="translate(-120 -7481)"/>
+        <path data-name="Rectangle 107" d="M168 7481a14.545 14.545 0 0 0-14.546 14.545v30.546A14.546 14.546 0 0 0 168 7511.545z" style="fill:#7b61ff" transform="translate(-120 -7481)"/>
+        <text transform="translate(60 30.945)" style="fill:#fff;font-size:24px;font-family:Poppins-Bold,Poppins;font-weight:700"><tspan x="0" y="0">TECHLERATE</tspan></text>
+    </g>
+</svg>
