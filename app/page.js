@@ -21,7 +21,7 @@ export default function Home() {
    <Services/>
    <Graphic/>
    <Digital/>
- 
+  <Testimonial/>
   
    <DumyForm/>
    <Blog/>
